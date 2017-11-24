@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" preserveAspectRatio="none" class="wph-social wph-facebook"><path class="wph-social-icon" d="M95.333 183.333V110H80.667V88h14.666V73.333c0-19.418 7.202-29.333 29.334-29.333H143v22h-11c-8.653 0-11 4.796-11 11v11h22l-3.667 22H121v73.333H95.333z"/></svg>

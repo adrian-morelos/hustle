@@ -1,0 +1,15 @@
+/* TEAM */
+    Product Manager: Robert Setiadi
+    Location: Melbourne, Australia
+
+	Developer: Diobeth Ray Villasencio
+	Location: Cebu, Philippines
+
+	Developer: Leighton Sapir
+	Location: Cuenca, Ecuador
+
+    Developer: Irene Mitchell
+    Location: Cagayan de Oro, Philippines
+
+    Designer: Victor Ivanov
+    Location: Melbourne, Australia
